@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amisha Sinha</h1>
+<h1 align="center">Amisha Sinha</h1>
 <h3 align="center">Software Developer | ML Enthusiast</h3>
 
 - 📫 Reach me at **amishasinha121@gmail.com**
