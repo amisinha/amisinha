@@ -1,7 +1,7 @@
 <h1 align="center">Amisha Sinha</h1>
 <h4 align="center">Software Developer | ML Enthusiast</h4>
 
-<h5>◼ Software Engineer with experience in Order Management System & E-Commerce implementations along with good working experience in consulting skills with the ability to identify issues in the process flow and develop solutions for OMS Clients.</h5>
+<h5>◼ Software Developer.</h5>
 <h5>◼ Loves to solve real-world problems and challenges, and wants to be a part of a collaborative and enthusiastic team.</h5>
 <h5>📫 Reach me at **amishasinha121@gmail.com**</h5>
 
