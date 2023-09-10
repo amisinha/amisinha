@@ -4,23 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=amisinha&color=blue" alt="Profile Views" />
 </p>
 
-<blockquote style="font-size: 24px;">
-  <p align="center">
-    <strong>"Empowering the Future: Innovating for a Better World"</strong>
-  </p>
-</blockquote>
-
 Welcome to my GitHub profile! I'm a passionate and results-driven software engineer with a strong background in full stack development and cloud technologies. Skilled in Java, Python, SQL, and JavaScript, with expertise in frameworks like SpringBoot, ReactJS, and RabbitMQ. Experienced in delivering scalable solutions and collaborating effectively with cross-functional teams.
 
 Currently pursuing a Master's degree in Computer Science at The State University of New York at Buffalo, I am continuously expanding my knowledge and staying at the forefront of emerging technologies and industry best practices.
 
 ### 🚀 Expertise
 
--Programming Languages: Java, Python, SQL, JavaScript
--Frameworks: SpringBoot, ReactJS, RabbitMQ
--Databases: MySQL, PostgreSQL
--Cloud Technologies: AWS RDS, EC2, S3
--Tools and Libraries: Git, Docker, Jira, Postman, NLTK
+- Programming Languages: Java, Python, SQL, JavaScript
+- Frameworks: SpringBoot, ReactJS, RabbitMQ
+- Databases: MySQL, PostgreSQL
+- Cloud Technologies: AWS RDS, EC2, S3
+- Tools and Libraries: Git, Docker, Jira, Postman, NLTK
 
 
 ### Let's Connect
